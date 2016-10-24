@@ -27,7 +27,7 @@ Once you've forked this repository, go ahead and make the following changes to t
 
 ## Add a Page Title
 
-Change the `title` to your Code School account name.
+Create a `title` element with your Code School account name.
 
 ## Add a Header Element
 
