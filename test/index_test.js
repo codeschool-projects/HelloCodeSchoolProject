@@ -21,7 +21,7 @@ describe('Your HTML Page', function() {
     assert.equal(window.$('title').length, 1, 'Make sure to create a `title` element.');
   });
 
-  it('should have a title with the text "Code School" @title', function() {
+  it('should have a title that contains your name @title', function() {
     assert.notEqual(window.$('title').text(), '', 'Make sure to set the content of the `title` element to your Code School username.');
   });
 
