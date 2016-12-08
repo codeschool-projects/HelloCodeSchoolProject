@@ -88,4 +88,6 @@ This will make your `index.html` file available at the URL:
 
 `http://<username>.github.io/HelloCodeSchoolProject/`
 
-For instance, our `answer` branch is available at the url [http://codeschool.github.io/HelloCodeSchoolProject/](http://codeschool.github.io/HelloCodeSchoolProject/).
+# Another Answer
+
+If you want to checkout one other possible solution to this problem and compare your work, you can checkout the `solution` branch.
