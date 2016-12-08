@@ -17,7 +17,7 @@ If you know these, you should be all set to jump in and give this project a shot
 
 # Setup
 
-In order to get this working, you'll need to have [Git](https://git-scm.com/) installed, and have a GitHub account. If this is your first time setting up Git, I'd recommend checking out Code School's video on [How to Setup Git for Code School Projects in 5 Minutes](#) to learn what you need to know.
+In order to get this working, you'll need to have [Git](https://git-scm.com/) installed, and have a GitHub account. If this is your first time setting up Git, I'd recommend checking out Code School's video on How to Setup Git for Code School Projects in 5 Minutes to learn what you need to know.
 
 To get started, fork this repository to your account and clone it down locally. If you want, you can also try doing this completely from GitHub!
 
