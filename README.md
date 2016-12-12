@@ -4,7 +4,7 @@ This is a sample project to test out how projects work at Code School. For this 
 
 # Getting Started
 
-To get started with this project, head over to the [Hello Code School](https://www.codeschool.com/projects/hello-codeschool) project on Code School, and begin! It'll walk you through all of the steps below. They're included here in the readme in case you work better locally, or want to try working on this project offline.
+To get started with this project, head over to the [Hello Code School](https://www.codeschool.com/projects/hello-code-school) project on Code School, and begin! It'll walk you through all of the steps below. They're included here in the readme in case you work better locally, or want to try working on this project offline.
 
 # Prerequisites
 
@@ -43,7 +43,7 @@ In these `li` elements, list out what you want to learn.
 
 # Checking Your Work
 
-Once you've completed all of the tasks, go ahead and commit those to your fork of this repository and push it up to GitHub. Follow the directions on [Hello Code School](https://www.codeschool.com/projects/hello-codeschool) to submit your project and get feedback from Code School.
+Once you've completed all of the tasks, go ahead and commit those to your fork of this repository and push it up to GitHub. Follow the directions on [Hello Code School](https://www.codeschool.com/projects/hello-code-school) to submit your project and get feedback from Code School.
 
 ## Running Tests Locally
 
