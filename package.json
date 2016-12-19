@@ -4,13 +4,32 @@
   "description": "Sample Code School Project",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha test/"
+    "test": "mocha test/",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "chai": "^3.5.0",
+    "eslint": "^3.12.2",
+    "eslint-plugin-react": "^6.8.0",
     "jsdom": "^9.2.1",
-    "mocha": "^2.5.3"
-  }
+    "mocha": "^2.5.3",
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "latest-version": "^2.0.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killertoons/HelloCodeSchoolProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/killertoons/HelloCodeSchoolProject/issues"
+  },
+  "homepage": "https://github.com/killertoons/HelloCodeSchoolProject#readme"
 }
