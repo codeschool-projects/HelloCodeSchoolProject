@@ -12,5 +12,8 @@
     "chai": "^3.5.0",
     "jsdom": "^9.2.1",
     "mocha": "^2.5.3"
+  },
+  "dependencies": {
+    "latest-version": "^2.0.0"
   }
 }
