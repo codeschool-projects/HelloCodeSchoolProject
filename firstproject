@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>HelloCodeSchoolProject</title>
+</head>
+<body>
+<h1>Hello, Code School!</h1>
+
+<ul>
+  <li><b>JavaScript</b></li>
+  <li><b>Angular.js</b></li>
+  <li><b>Ruby</b></li>
+</ul>
+</body>
+</html>
