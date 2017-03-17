@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title> Sapporo-Citizen's First Project </title>
+</head>  
+    <body>
+    <h1> Hello Code School! </h1>
+    <p> My name is Sapporo-Citizen, and I am starting on my coding adventure.  My objective is... </p>
+    <ul>
+    <li> To create this webpage </li>
+    <li> To learn coding </li>
+    </ul>
+    
+    <p> I hope I can do well! </p>
+    </body>
+    </html>
