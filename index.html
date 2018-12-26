@@ -16,6 +16,15 @@
   	  <li>Python</li>
   	  <li>SQL</li>
   	</ul>
-    <h1>Change 3 - Robert</h1>
+    <h1 id="timeStamp"></h1>
+    <script>
+      const d = new Date(),
+        date = d.getDate(),
+        hours = d.getHours(),
+        minutes = d.getMinutes(),
+        seconds = d.getSeconds(),
+        result = `Day - ${date}<br />Time - ${hours}: ${minutes}: ${seconds} (military)`;
+      document.getElementById('timeStamp').innerHTML = result;
+    </script>
   </body>
 </html>
