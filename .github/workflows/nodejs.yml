@@ -16,19 +16,14 @@ jobs:
         - uses: actions/setup-go@v1.0.0          
           with: # The Go version to download (if necessary) and use. Example: 1.9.3
            go-version: '1.9.3'
-          steps:
-              - uses: actions/checkout@v2
-              - name: Use Node.js ${{ matrix.node-version }}
-  steps:
-            uses: actions/setup-node@v1
-            with:
+      
+        - uses: actions/checkout@v2
+        - name: Use Node.js ${{ matrix.node-version }}
+          uses: actions/setup-node@v1
+          with: 
             node-version: ${{ matrix.node_version }}
-
-            run: |
-                npm install
-                npm run build --if-present
-                npm test
-          
-        env:
-  
-        CI: true
+        - run: install
+        - run: npm build --if-present
+        - run: npm test
+env:
+  CI: true
