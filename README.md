@@ -1,4 +1,4 @@
-# Hello Code School
+# <ins>Wellcome To Code School</ins>
 
 This is a sample project to test out how projects work at Code School. For this project, you'll be creating a basic website using HTML. If you want to deploy it to a real website, we'll even walkthrough how to do that!
 
@@ -91,3 +91,5 @@ This will make your `index.html` file available at the URL:
 # Another Answer
 
 If you want to checkout one other possible solution to this problem and compare your work, you can checkout the `solution` branch.
+
+<h1>ThankYou :)</h1>
